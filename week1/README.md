@@ -160,8 +160,7 @@ Write a C program `mynameis` that prints your name.
 ### 2. Input arguments in C
 
 Write a C program `repeatme` that given a string as argument, prints
-the string twice on separate lines.  (You can read section C.10.3 of Harris & Harris
-or maybe watch [the video on
+the string twice on separate lines.  (You can watch [the video on
 reading line
 arguments](https://sid.erda.dk/share_redirect/f8RgVGzlET/argv.mp4).)
 
